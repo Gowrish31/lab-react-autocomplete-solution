@@ -21,3 +21,5 @@ Use `hooks` to manage states.
 As shown in the above reference gif, when we press `escape` key, the dropdown hides. You have to implement the same: when you press `escape` key -> the suggestions should not be visible.
 
 Happy Coding ❤️!
+
+Gowrish Nalla H
